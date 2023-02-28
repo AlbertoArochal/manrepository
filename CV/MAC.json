@@ -1,0 +1,344 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alberto",
+      "surnames": "Rocha López",
+      "title": "Python and Frontend Rookie & Software enthusiast",
+      "description": "Following my path to refocus my career into data and coding.",
+      "avatar": {
+        "alt": "1572855754238.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/19/8d18d3c7-521d-4811-bb69-d8d1179cfa65_1572855754238.jpeg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/AlbertoArochal?tab=repositories"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alberto-r-175816134/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I have a gaming youtube channel",
+        "fact": "I love videogames, and I have a youtube gaming channel with my couple."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Quebueno!"
+        },
+        "roles": [
+          {
+            "name": "Customer Service Manager and Recovery Analyst",
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "- Coordinación y asistencia al equipo con incidencias de clientes y cobros. \n- Extracción (SQL) análisis y elaboración de cargas de llamadas (Issabel, INO), y \ncampañas sms/mail. \n- Formación inicial y continuada a equipos internos y externos. \n- Coordinación asistencias y vacaciones (Woffu-Kenjo). \n- Control KPIs y su extracción de diversas fuentes (Intercom, Metabase). \n- Asistencia y facturación empresas de cobro externas. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Clearpay"
+        },
+        "roles": [
+          {
+            "name": "Recovery Agent",
+            "startDate": "2014-01-01",
+            "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "- Reclamación de cobros a clientes de distintos productos financieros."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Delonghi"
+        },
+        "roles": [
+          {
+            "name": "Account Receivable",
+            "startDate": "2011-03-01",
+            "finishDate": "2013-10-01",
+            "challenges": [
+              {
+                "description": "Control de crédito y reclamación impagos al sector minorista. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "SAP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Corporacion Legal"
+        },
+        "roles": [
+          {
+            "name": "Recovery Agent ",
+            "startDate": "2007-11-01",
+            "finishDate": "2011-01-01",
+            "challenges": [
+              {
+                "description": "Reclamación impagados sector financiero. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "SAP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Front-end with react",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "ISDI Coders",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Programación Orientada a la Ciencia de Datos",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Lic Derecho",
+        "startDate": "2001-06-01",
+        "institution": {
+          "name": "Universidad de La Laguna",
+          "description": "Licenciatura en derecho"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alberto-r-175816134/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Flask",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Analysis & BI",
+        "Data Scientist",
+        "Frontend Developer",
+        "QA & Testing Engineer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
